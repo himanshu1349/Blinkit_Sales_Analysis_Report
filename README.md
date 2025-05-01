@@ -1,4 +1,4 @@
-BLINKIT SALES DASHBOARD
+BLINKIT SALES ANALYSIS DASHBOARD
 
 Wrapped up my latest practice-based project and excited to showcase the power of data-driven decision-making through this Blinkit sales analysis dashboard. Dive deep into analytics, uncover trends, and make informed decisions!
 
